@@ -1,5 +1,6 @@
 # HCI-HappyKid-UX-Design
 A simple academic UI/UX mobile application prototype built for an HCI university course to provide kids' essentials.
+<img width="1920" height="1080" alt="Screenshot (351)" src="https://github.com/user-attachments/assets/a239ca5b-0b64-48fa-b9b2-1cdbfb1f6ce9" />
 ## Designed Screens
 * **Startup App Screens
 * **Sign In & Create Account Screen**
