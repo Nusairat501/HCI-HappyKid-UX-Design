@@ -12,4 +12,4 @@ A simple academic UI/UX mobile application prototype built for an HCI university
 * **Profile & Account Info Screens**
 * **Help Center Screens**
 * ## Interactive Prototype
-[👉 Click here to try the interactive Figma prototype]([YOUR_FIGMA_LINK](https://www.figma.com/proto/as371hxEhu0YdtStjYrHTr/HappyKid-HCI?node-id=0-1&t=zOsltl9dLh6KVpPD-1))
+[👉 Click here to try the interactive Figma prototype]([https://www.figma.com/proto/as371hxEhu0YdtStjYrHTr/HappyKid-HCI?node-id=0-1&t=zOsltl9dLh6KVpPD-1]
